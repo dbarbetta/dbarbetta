@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96pt" height="96pt" viewBox="0 0 96 96" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image7" width="96" height="96" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAABmJLR0QA/wD/AP+gvaeTAAAA3UlEQVR4nO3cMQ6DMBAAQXD4/4sTlB5a8CIxU7q5k1Zub1kAeKv1+PAZ41ss8hS/fd9mzhszh3EmQEyAmAAxAWICxASICRATICZATICYADEBYgLEBIgJEBMgJkBMgJgAMQFiAsQEiAkQEyAmQEyAmAAxAWICxASICRATICZATICYADEBYgLEBIgJEBMgJkBMgNjUuwh3mH3b4Wp+QEyAmAAxAWICxASICRATICZATICYADEBYgLEBIgJEBMgJkBMgJgAMQFiAsQEiAkQEyAmQEyAmAAAAAAAAAAAcJM/Lm0Hj8+UeSMAAAAASUVORK5CYII="/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image7"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect width="96" height="96"/>
+</clipPath>
+<g id="surface9" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(54.901961%,54.901961%,54.901961%);fill-opacity:1;" d="M 56 24 C 56 35.046875 47.046875 44 36 44 C 24.953125 44 16 35.046875 16 24 C 16 12.953125 24.953125 4 36 4 C 47.046875 4 56 12.953125 56 24 Z M 56 24 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(54.901961%,54.901961%,54.901961%);fill-opacity:1;" d="M 22.730469 44 L 19.984375 44 C 11.15625 44 4 51.164062 4 60 L 4 76 L 68 76 L 68 60 C 68 51.179688 60.84375 44 52.015625 44 L 49.269531 44 C 45.46875 46.527344 40.90625 48 36 48 C 31.09375 48 26.53125 46.527344 22.730469 44 Z M 22.730469 44 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 8 72 L 64 72 L 64 60 C 64 53.382812 58.625 48 52.015625 48 L 19.984375 48 C 13.367188 48 8 53.371094 8 60 Z M 8 72 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(54.901961%,54.901961%,54.901961%);fill-opacity:1;" d="M 28 48 L 44 48 L 36 76 Z M 28 48 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(54.901961%,54.901961%,54.901961%);fill-opacity:1;" d="M 16 60 L 20 60 L 20 68 L 16 68 Z M 16 60 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(54.901961%,54.901961%,54.901961%);fill-opacity:1;" d="M 24 60 L 28 60 L 28 68 L 24 68 Z M 24 60 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(54.901961%,54.901961%,54.901961%);fill-opacity:1;" d="M 20 48 L 24 48 L 24 60 L 20 60 Z M 20 48 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(54.901961%,54.901961%,54.901961%);fill-opacity:1;" d="M 52 56.339844 L 52 48 L 48 48 L 48 56.339844 C 45.660156 57.160156 44 59.382812 44 62 C 44 65.335938 46.6875 68 50 68 C 53.335938 68 56 65.3125 56 62 C 56 59.371094 54.332031 57.15625 52 56.339844 Z M 52 56.339844 "/>
+</g>
+<image id="image12" width="96" height="96" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAABmJLR0QA/wD/AP+gvaeTAAACeElEQVR4nO3ZPWhTURiA4S+2FVuK4t/S1cEugqDo4lCdVIyoKAq6100H3V0EJ0cRJxGUdnKo4qSlm4tu4qKLoIMO/lGlavs65ISchEta0duY5H0g5Nzzc89377n3Jl8SIUmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEn/OWAQuAc8ATZ2Op6+Axyl4VLZ860pe4IudCYrVzsWRT8CRoCv2R3wC9hc5pzeAc2qETGabQ9ExMEyJ3QBmp1O79/TKyLiSIdi6S/AeuBbevRMAzOp/AkYKmte74CG4xExnMpTEfEglTdExL6ORNRPgEfpiv8MDANjwFKqu97p+HoasAX4kU727az+Wap7VdbcPoJqTkZE/Tk/ldXPpPdtwPjqhtRHgNl0pX/IP3CB3VlOcLmTMXY9YFf22prVjwGL6STfbBlTAd6mtrk2+x4CduZzlHksXSedyNxPYCK1XcjqJwrG3srGbCpoXwu8aNn/UvlH1UUKFgBgNrU9TdvvgIGCsdVszNmC9mMF+17xAgz+3aF1h0qlAjCZNqtRy24ngBMRsSfVT1cqlcWC4Y+jlhUPp7F3W9rrP94tRMTFiPDqbwfYnj3zv2RX7d42Y+pZ8UeaP6RHgfnUdn91jqAHZCe07jVQadN/Mut7IKs/l9WfWp3oewCwv2UBri7TvzArBh5md9JI+ZH3EOB5tgA7VtC/KSumOXu+U37EPQY4BCwAM8v3jgCuZAs2DpzPtg+XHW9PAtb9Qd+mrBiYS+X3lPhztRKas+KXNL5J3eh0bH2DRlac87+C1UJzVgzwhjZfX/WPUfujZj5bgGudjkmSJEmSJEmSusNvbIr0ElWuXTAAAAAASUVORK5CYII="/>
+</defs>
+<g id="surface1">
+<use xlink:href="#surface9" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(30.196078%,30.196078%,30.196078%);fill-opacity:1;" d="M 52 52 L 92 52 L 92 88 L 52 88 Z M 52 52 "/>
+<use xlink:href="#image12"/>
+</g>
+</svg>
